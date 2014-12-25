@@ -1,7 +1,7 @@
 FontCustom in docker container!
 ==============================
 
-FontCustome is useful to generate glyph fonts for use for e.g. in twitter bootstrap
+FontCustom is useful to generate glyph fonts for use for e.g. in twitter bootstrap
 
 Read more about [FontCustom][1] 
 
